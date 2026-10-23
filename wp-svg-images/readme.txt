@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/resizeImage
 Tags: svg, svg support, svg upload, sanitization
 Requires at least: 3.0.1
 Requires PHP: 5.6.40
-Tested up to: 7.0
+Tested up to: 7.1
 Stable tag: 4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
